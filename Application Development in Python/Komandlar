@@ -1,0 +1,4 @@
+(Pip Installs Packages yeniləmək)
+python.exe -m pip install --upgrade pip
+
+(Kitabxana yükləmək)
